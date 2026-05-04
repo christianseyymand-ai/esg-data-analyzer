@@ -1,0 +1,25 @@
+ESG REPORT — COMPLETE GHG INVENTORY SCOPE 1, 2 AND 3
+================================================================
+
+METHODOLOGICAL ASSUMPTIONS
+
+- Scope 1: calculated from fuel consumption using fuel-specific emission factors.
+- Scope 2: location-based method using country-level grid emission factors.
+- Scope 3 Category 1: spend-based method using EEIO-style sector factors.
+- Scope 3 Category 4: distance-based method by transport mode, using ton-km.
+- Scope 3 Category 6: distance-based method by travel type, using passenger-km.
+- Scope 3 Category 7: distance-based method using employee commuting assumptions.
+- Employee commuting assumption: 220 working days per year and 25 km/day round trip.
+- Grid factors used in this case study:
+  AR=0.321 | CL=0.295 | PE=0.247 kgCO2e/kWh.
+- Fuel factors used in this case study:
+  diesel/gasoil=2.68 | gasoline/nafta=2.31 kgCO2e/liter.
+
+Note: This is a portfolio case study. For production use, factors should be replaced
+with verified, source-specific and year-specific emission factors.
+
+================================================================
+
+AI-assisted report was not generated because ANTHROPIC_API_KEY was not configured.
+
+The emissions inventory CSV was still generated successfully.

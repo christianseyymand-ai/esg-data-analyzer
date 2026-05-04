@@ -1,0 +1,4 @@
+company,country,employees,scope1_tco2e,scope2_tco2e,scope3_cat1_purchased_goods_services_tco2e,scope3_cat4_upstream_transport_tco2e,scope3_cat6_business_travel_tco2e,scope3_cat7_employee_commuting_tco2e,scope3_total_tco2e,total_tco2e,scope3_share_pct,emissions_intensity_tco2e_per_employee
+Acme Manufacturing,argentina,320,120.6,2632.2,5138.5,65.76,23.49,197.91,5425.66,8178.46,66.3,25.56
+GreenTech Ltd,chile,95,121.73,826.0,1148.0,4.96,28.51,40.57,1222.04,2169.77,56.3,22.84
+RetailCo,peru,1200,19.64,839.81,8485.0,221.0,29.3,473.22,9208.52,10067.97,91.5,8.39
